@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">费用追踪器</string>
+    <string name="add_transaction">添加交易</string>
+    <string name="balance">余额</string>
+    <string name="income">收入</string>
+    <string name="expense">支出</string>
+    <string name="amount">金额</string>
+    <string name="description">描述</string>
+    <string name="cancel">取消</string>
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    <string name="no_transactions">暂无交易记录</string>
+    <string name="add_first_transaction">点击 + 按钮添加您的第一笔交易</string>
+</resources>
